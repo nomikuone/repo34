@@ -1,0 +1,15 @@
+C:\Users\Fedor\Documents\учеба phyton\34_36_38\DZ_34_36_38\bin\Debug\net6.0\DZ_34_36_38.exe
+C:\Users\Fedor\Documents\учеба phyton\34_36_38\DZ_34_36_38\bin\Debug\net6.0\DZ_34_36_38.deps.json
+C:\Users\Fedor\Documents\учеба phyton\34_36_38\DZ_34_36_38\bin\Debug\net6.0\DZ_34_36_38.runtimeconfig.json
+C:\Users\Fedor\Documents\учеба phyton\34_36_38\DZ_34_36_38\bin\Debug\net6.0\DZ_34_36_38.dll
+C:\Users\Fedor\Documents\учеба phyton\34_36_38\DZ_34_36_38\bin\Debug\net6.0\DZ_34_36_38.pdb
+C:\Users\Fedor\Documents\учеба phyton\34_36_38\DZ_34_36_38\obj\Debug\net6.0\DZ_34_36_38.csproj.AssemblyReference.cache
+C:\Users\Fedor\Documents\учеба phyton\34_36_38\DZ_34_36_38\obj\Debug\net6.0\DZ_34_36_38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fedor\Documents\учеба phyton\34_36_38\DZ_34_36_38\obj\Debug\net6.0\DZ_34_36_38.AssemblyInfoInputs.cache
+C:\Users\Fedor\Documents\учеба phyton\34_36_38\DZ_34_36_38\obj\Debug\net6.0\DZ_34_36_38.AssemblyInfo.cs
+C:\Users\Fedor\Documents\учеба phyton\34_36_38\DZ_34_36_38\obj\Debug\net6.0\DZ_34_36_38.csproj.CoreCompileInputs.cache
+C:\Users\Fedor\Documents\учеба phyton\34_36_38\DZ_34_36_38\obj\Debug\net6.0\DZ_34_36_38.dll
+C:\Users\Fedor\Documents\учеба phyton\34_36_38\DZ_34_36_38\obj\Debug\net6.0\refint\DZ_34_36_38.dll
+C:\Users\Fedor\Documents\учеба phyton\34_36_38\DZ_34_36_38\obj\Debug\net6.0\DZ_34_36_38.pdb
+C:\Users\Fedor\Documents\учеба phyton\34_36_38\DZ_34_36_38\obj\Debug\net6.0\DZ_34_36_38.genruntimeconfig.cache
+C:\Users\Fedor\Documents\учеба phyton\34_36_38\DZ_34_36_38\obj\Debug\net6.0\ref\DZ_34_36_38.dll
